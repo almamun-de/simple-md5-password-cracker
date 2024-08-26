@@ -9,5 +9,5 @@ This is a simple Python script that attempts to crack a given MD5 hashed passwor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-cracker.git
-   cd password-cracker
+   git clone https://github.com/almamun-de/simple-md5-password-cracker.git
+   cd simple-md5-password-cracker
